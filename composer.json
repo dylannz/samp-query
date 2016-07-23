@@ -1,4 +1,7 @@
 {
+    "name": "torophp/torophp",
+    "type": "library",
+    "description": "Toro is a PHP router for developing RESTful web applications and APIs.",
     "license": "MIT",
     "authors": [
         {
@@ -13,6 +16,8 @@
         }
     ],
     "autoload": {
-        "psr-0": { "SAMPQueryServer": "" }
+        "files": [
+            "SAMPQueryServer.php"
+        ]
     }
 }
