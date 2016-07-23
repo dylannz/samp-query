@@ -1,7 +1,7 @@
 {
-    "name": "torophp/torophp",
+    "name": "dylannz/samp-query",
     "type": "library",
-    "description": "Toro is a PHP router for developing RESTful web applications and APIs.",
+    "description": "SAMP server query class",
     "license": "MIT",
     "authors": [
         {
