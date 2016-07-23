@@ -1,6 +1,4 @@
 <?php
-namespace SAMP;
-
 /*********************************************
 *
 * SA-MP Query Server Version 0.3
@@ -20,7 +18,7 @@ namespace SAMP;
 *          SA-MP Betatester
 *********************************************/
 
-class QueryServer
+class SAMPQueryServer
 {
     // Private variables used for the query-ing.
     private $szServerIP;

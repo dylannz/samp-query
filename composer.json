@@ -1,0 +1,18 @@
+{
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Beverloo",
+            "email": "peter@dmx-network.com",
+            "role": "Ex SA-MP Developer"
+        },
+        {
+            "name": "Wouter van Eekelen",
+            "email": "wouter.van.eekelen@serverffs.com",
+            "role": "SA-MP Betatester"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "SAMPQueryServer": "" }
+    }
+}
